@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-## Meine Top Programmiersprachen
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bethmannRolf&layout=compact)
 
